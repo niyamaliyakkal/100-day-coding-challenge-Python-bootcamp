@@ -22,5 +22,5 @@ random.shuffle(l)
 password=""
 for i in l:
   password+=i
-print(f"Yourpassword is {password} .") 
+print(f"Your password is {password} .") 
  
